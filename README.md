@@ -7,7 +7,7 @@
 [vlang.io](https://vlang.io) |
 [Docs](https://github.com/vlang/v/blob/master/doc/docs.md) |
 [Changelog](https://github.com/vlang/v/blob/master/CHANGELOG.md) |
-[Speed](https://fast.vlang.io/) |
+[Speed](https://fast.vlang.io/) Arsalan Afra
 [Contributing & compiler design](https://github.com/vlang/v/blob/master/CONTRIBUTING.md)
 
 </div>
