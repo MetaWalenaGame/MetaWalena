@@ -7,11 +7,12 @@
 [vlang.io](https://vlang.io) |
 [Docs](https://github.com/vlang/v/blob/master/doc/docs.md) |
 [Changelog](https://github.com/vlang/v/blob/master/CHANGELOG.md) |
-[Speed](https://fast.vlang.io/) Arsalan Afra
+[Speed](https://fast.vlang.io/) 
 [Contributing & compiler design](https://github.com/vlang/v/blob/master/CONTRIBUTING.md)
 
 </div>
 <div align="center">
+	<h1>Arsalan Afra</h1>
 
 <!--
 [![Build Status][WorkflowBadge]][WorkflowUrl]
