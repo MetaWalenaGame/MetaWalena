@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-    <img width="80" src="https://raw.githubusercontent.com/vlang/v-logo/master/dist/v-logo.svg?sanitize=true">
+    <img width="80" src="https://avatars.githubusercontent.com/u/102438036?s=400&u=82a5dba4ba4b41b5bcac3a049b44927194640373&v=4">
 </p>
 	<h1>Arsalan Afra</h1>
 <h1>The V Programming Language</h1>
